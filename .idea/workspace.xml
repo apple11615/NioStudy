@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b40687cb-642e-4e8e-94a1-04cb61d7a321" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fr6hjvDipzpfBOBYpvcc5SyCBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.GroupChartClient2">
+    <configuration name="GroupChartClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suhong.nio.groupchat.GroupChartClient" />
+      <module name="NioStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suhong.nio.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChartClient2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.suhong.nio.groupchat.GroupChartClient" />
+      <module name="NioStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suhong.nio.groupchat.GroupChartServer" />
+      <module name="NioStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suhong.nio.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suhong.nio.groupchat.GroupChartClient" />
+      <module name="NioStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GroupChartClient2" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.GroupChartClient" />
+      <item itemvalue="Application.GroupChartServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupChartClient" />
+        <item itemvalue="Application.GroupChartServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b40687cb-642e-4e8e-94a1-04cb61d7a321" name="Default Changelist" comment="" />
+      <created>1596963985644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596963985644</updated>
+      <workItem from="1596963990160" duration="6252000" />
+      <workItem from="1597041976917" duration="109000" />
+      <workItem from="1597042212961" duration="26000" />
+      <workItem from="1597042355866" duration="7819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597050614019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597050614019" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596969509483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596969509483" />
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597050600844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1597050600844" />
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom" timestamp="1597050935592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597050935592" />
+    <state width="1322" height="166" key="GridCell.Tab.0.center" timestamp="1597050935592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597050935592" />
+    <state width="1322" height="166" key="GridCell.Tab.0.left" timestamp="1597050935592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597050935592" />
+    <state width="1322" height="166" key="GridCell.Tab.0.right" timestamp="1597050935592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597050935592" />
+    <state width="1322" height="208" key="GridCell.Tab.1.bottom" timestamp="1597043273551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597043273551" />
+    <state width="1322" height="208" key="GridCell.Tab.1.center" timestamp="1597043273551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597043273551" />
+    <state width="1322" height="208" key="GridCell.Tab.1.left" timestamp="1597043273551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597043273551" />
+    <state width="1322" height="208" key="GridCell.Tab.1.right" timestamp="1597043273551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597043273551" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1596965221623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596965221623" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1597042360338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597042360338" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596967638800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596967638800" />
+  </component>
+</project>
